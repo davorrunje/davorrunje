@@ -1,4 +1,4 @@
-![](./profile-3d-contrib/profile-block-version.svg)
+![](./profile-3d-contrib/profile-block-animate.svg)
 
 <!--
 **davorrunje/davorrunje** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

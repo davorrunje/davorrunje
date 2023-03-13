@@ -1,7 +1,5 @@
 ![](./profile-3d-contrib/profile-season-animate.svg)
 
-<iframe style="width:100%;height:auto;min-width:600px;min-height:400px;" src="https://star-history.com/embed?secret=Z2hwX01LSWhoc2R6bkdrYlVxWDlUNW9DVGl1UUNjdlpGaDA3U0VYcA==#airtai/fastkafka&Timeline" frameBorder="0"></iframe>
-
 <!--
 **davorrunje/davorrunje** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
